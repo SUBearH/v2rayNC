@@ -18,5 +18,3 @@ A GUI client for Windows, support [Xray core](https://github.com/XTLS/Xray-core)
 - [Supported cores](https://github.com/2dust/v2rayN/wiki/List-of-supported-cores)
 
 
-## Telegram Channel
-[github_2dust](https://t.me/github_2dust)
